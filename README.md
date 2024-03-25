@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Sheetal Kulkarni 
-**Manchester, UK • +44-7733584659
+Manchester, UK • +44-7733584659
 kulkarni.a.sheetal@gmail.com  
 www.linkedin.com/in/sheetal-kulkarni-a5a275276
 
