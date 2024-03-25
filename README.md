@@ -5,7 +5,7 @@ kulkarni.a.sheetal@gmail.com
 
 
 About Me!
-- I’m currently working as a Teaching Assistant in a primary school and also doing Data Science Bootcamp with CoGrammar and Hyperion.
+- I’m currently working as a Teaching Assistant in a primary school in the UK. I am also doing Data Science Bootcamp with CoGrammar and Hyperion.
 - I’m currently learning Python, Git, GitHub and developing Data Science Concepts. 
 - I have worked on testing tools like Jira, Postman and Zephyr.
 - I have knowledge of database management.
