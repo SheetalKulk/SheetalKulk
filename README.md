@@ -18,11 +18,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Testing Tools: Jira, Postman, Zephyr
-Database Management: SQL (Oracle, MySQL, phpAdmin)
-
-Certifications: ISTQB - CTFL
+About Me!
+- I’m currently working as a Teaching Assistant in a primary school and also doing Data Science Bootcamp with CoGrammar and Hyperion.
+- I’m currently learning python, Git, GitHub and developing Data Science Concepts. 
+- I have worked on testing tools like Jira, Postman and Zephyr.
+- I have knowledge of database management and have knowledge of SQL.
+- I am ISTQB - CTFL 3.1 Certified.
+- My last role in IT was of a 'Test Analyst' with Axone Technologies UK Ltd., UK
 
 
 
