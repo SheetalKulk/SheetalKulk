@@ -5,17 +5,17 @@ Email: kulkarni.a.sheetal@gmail.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n
 ### About Me!
   Passionate about using data to solve real world problems. 
 
-## Current Role!
+### Current Role!
   I’m currently working as a Teaching Assistant in a primary school, UK.
 
-## Previous Roles!  
+### Previous Roles!  
   I worked as a 'Test Analyst' with Axone Technologies UK Ltd., UK
 
-## Current Learnings
-- I am currently undertaking Data Science Engineer Bootcamp with CoGrammar and Hyperion. As part of this bootcamp i am learning various data science concepts like data wranggling, analysis, 
+### Current Learnings
+- I am currently undertaking Data Science Engineer Bootcamp with CoGrammar and Hyperion. As part of this bootcamp I am learning various data science concepts like data wrangling, analysis, 
    machine learning and Data visualization. As well learning hand-on programming using Python to complete various data science assignments. 
 - I have worked on testing tools like Jira, Postman and Zephyr.
-- I have knowledge of both sql and no-sql databases.
+- I have knowledge of sql databases.
 - I am ISTQB - CTFL 3.1 Certified Foundation Level Test Analyst.
 
 
