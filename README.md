@@ -16,7 +16,7 @@ About Me!
 <table>
   <tr>
     <td><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></th>
-    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLM-fcdhNPwzfUr-q-bPMvj93ol4Ff9ycQSw&s" height=40 width=40></th>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLM-fcdhNPwzfUr-q-bPMvj93ol4Ff9ycQSw&s" height=60 width=60></th>
   </tr>
 </table>
 
