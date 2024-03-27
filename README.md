@@ -1,5 +1,5 @@
 ## Hi there 👋, I am Sheetal Kulkarni 
-Email: kulkarni.a.sheetal@gmail.com   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sheetal-kulkarni-a5a275276/) 
+Email: kulkarni.a.sheetal@gmail.com <span>  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sheetal-kulkarni-a5a275276/) 
 
 
 
