@@ -2,7 +2,7 @@
 Email: kulkarni.a.sheetal@gmail.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sheetal-kulkarni-a5a275276/) 
 
 
-## About Me!
+## **About Me!**
   Passionate about using data to solve real world problems. 
 
 ## Current Role!
